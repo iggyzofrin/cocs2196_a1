@@ -1,0 +1,35 @@
+
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+body {
+  display: block;
+  background: #fafafa;
+  color: #545454;
+  font-weight: 400;
+  margin-top: 50px;
+  margin-left: 100px;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0px;
+  line-height: 1.8;
+  overflow-x: hidden;
+  margin-bottom:200px;
+}
+ 
+h1 {
+  font-size: 2.5em;
+  font-weight: 700;
+}
+ 
+p {
+  font-size: 1em;
+}
+
+label {
+	display:inline-block;
+	min-width: 170px;
+}
+section span {
+	display:inline-block;
+}
